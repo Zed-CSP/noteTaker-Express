@@ -63,6 +63,7 @@ Navigate to the site that using the link in [Deployment](#Deployment). Input you
   - Express.js (Database)
   - Node.js
     - FS package (File System)
+    - 'path' Package
  
 ---
 ## Credits
