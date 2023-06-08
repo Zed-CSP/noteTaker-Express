@@ -1,6 +1,8 @@
-# noteTaker-Express
+# Note Taker Web App
+---
+## Description
 ```
-Simple note taking full-stack WebApp
+Simple note taking full-stack Web Application that utilizes an Express Database.
 ```
 
 ## User Story
