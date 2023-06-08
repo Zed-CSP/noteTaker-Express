@@ -8,7 +8,6 @@
   * [Preview](#preview)
   * [Usage](#usage)
   * [Technologies_Used](#technologies-used)
-  * [Tests](#tests)
   * [Credits](#credits)
   * [License](#license)
   * [Questions](#questions)
@@ -60,12 +59,11 @@ Navigate to the site that using the link in [Deployment](#Deployment). Input you
 
 ---
 ## Technologies Used
-
-
----
-## Tests
-
-
+  - JavaScript
+  - Express.js (Database)
+  - Node.js
+    - FS package (File System)
+ 
 ---
 ## Credits
 License badges created by [shields.io](https://shields.io/)
@@ -77,7 +75,7 @@ Licensed Under MIT license
 
 ---
 ## Questions
-For any issues please Open an Issue at "["repo"](https://github.com/sarah-jensen/note-taker)"
+For any Questions or issues please Open an Issue in my Repo: [noteTaker-Express](https://github.com/Zed-CSP/noteTaker-Express)
 
 ---
 
