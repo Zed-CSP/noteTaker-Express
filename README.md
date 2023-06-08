@@ -1,11 +1,23 @@
 # Note Taker Web App
 ---
+## Table of Contents
+  
+  * [Description](#Description)
+  * [Deployment](#Deployment)
+  * [Preview](#preview)
+  * [Usage](#usage)
+  * [Technologies_Used](#technologies-used)
+  * [Tests](#tests)
+  * [Credits](#credits)
+  * [License](#license)
+  * [Questions](#questions)
+
+---
 ## Description
 ```
 Simple note taking full-stack Web Application that utilizes an Express Database.
 ```
-
-## User Story
+### User Story
 
 ```
 AS A small business owner
@@ -13,7 +25,7 @@ I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
 
-## Criteria
+### Criteria
 
 ```
 GIVEN a note-taking application
@@ -30,4 +42,38 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
+---
+## Deployment
+
+
+---
+
+## Preview
+
+
+---
+## Usage
+
+
+---
+## Technologies Used
+
+
+---
+## Tests
+
+
+---
+## Credits
+
+
+---
+## License
+
+
+---
+## Questions
+
+
+---
 
