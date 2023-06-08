@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Note Taker Web App
 ---
 ## Table of Contents
@@ -51,10 +52,11 @@ Web App is Deployed at https://json-note-taker.herokuapp.com/
 
 ## Preview
 
+(./public/assets/images/Screenshot 2023-06-07 at 8.22.32 PM.png)
 
 ---
 ## Usage
-
+Navigate to the site that using the link in [Deployment](#Deployment). Input your notes in the left field and add them to the list with the "save" Icon that appears in the upper left corner. The list of notes appears on the left hand side and they can be clicked on to expand and modify the note. Notes can be deleted with the red "trash" icon, and a new Note can be created by clicking the "+" In the upper right.
 
 ---
 ## Technologies Used
@@ -66,15 +68,16 @@ Web App is Deployed at https://json-note-taker.herokuapp.com/
 
 ---
 ## Credits
-
+License badges created by [shields.io](https://shields.io/)
 
 ---
 ## License
-
+Licensed Under MIT license
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 ## Questions
-
+For any issues please Open an Issue at "["repo"](https://github.com/sarah-jensen/note-taker)"
 
 ---
 
