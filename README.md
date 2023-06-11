@@ -51,7 +51,7 @@ Web App is Deployed at https://json-note-taker.herokuapp.com/
 
 ## Preview
 
-![Preview](./public/assets/images/Screenshot 2023-06-07 at 8.22.32 PM.png)
+![Preview](./public/assets/images/Screenshot.png)
 
 ---
 ## Usage
